@@ -1,10 +1,10 @@
 #!/usr/bin/env bash
-# LEOS (Легкая и Эффективная ОС) — archiso profile definition
+# LEOS (Light and Efficient Operational System) — archiso profile definition
 
 iso_name="leos"
 iso_label="LEOS_BETA_V0_1"
 iso_publisher="LEOS Project"
-iso_application="LEOS - Легкая и Эффективная ОС"
+iso_application="LEOS - Light and Efficient Operational System"
 iso_version="beta-v0.1"
 install_dir="leos"
 buildmodes=('iso')

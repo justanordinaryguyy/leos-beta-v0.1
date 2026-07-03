@@ -1,4 +1,4 @@
-# Базовая система
+# Base system
 base
 linux-lts
 linux-lts-headers
@@ -6,31 +6,31 @@ linux-firmware
 mkinitcpio
 mkinitcpio-archiso
 
-# Загрузчик и установка
+# Bootloader and installation
 grub
 efibootmgr
 syslinux
 
-# Сеть
+# Network
 networkmanager
 dhcpcd
 iwd
 openssh
 
-# Инструменты диагностики/установки
+# Diagnostic / installation tools
 parted
 gptfdisk
 dosfstools
 e2fsprogs
 btrfs-progs
 
-# Легковесное окружение (минимум по умолчанию, можно расширять)
+# Lightweight environment (minimal by default, extendable)
 sudo
 nano
 vim
 bash-completion
 
-# Утилиты
+# Utilities
 htop
 git
 curl
