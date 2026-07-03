@@ -4,6 +4,7 @@
     "dockerfile": "Dockerfile"
   },
   "remoteUser": "root",
+  "privileged": true,
   "customizations": {
     "vscode": {
       "extensions": [
